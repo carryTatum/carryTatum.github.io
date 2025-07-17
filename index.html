@@ -3,60 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JiangZihao Resume</title>
+    <title>Resume</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh; /* 确保内容居中，即使页面很短 */
+            padding: 0;
+            overflow: hidden; /* Prevent scrollbars on the body */
         }
-        h1 {
-            color: #0056b3;
-            margin-bottom: 20px;
-        }
-        p {
-            margin-bottom: 30px;
-            font-size: 1.1em;
-        }
-        .pdf-container {
-            width: 95%; /* 增加宽度，让PDF占浏览器窗口更大比例 */
-            max-width: 1000px; /* 增加最大宽度，允许在宽屏上显示更大 */
-            height: 1800px; /* 增加固定高度，确保PDF有足够空间 */
-            border: 1px solid #ccc;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-            background-color: #fff;
-            overflow: hidden; /* 隐藏可能溢出的滚动条 */
-        }
-        iframe, embed {
-            width: 100%;
-            height: 100%;
-            border: none; /* 移除默认边框 */
-        }
-        .download-link {
-            margin-top: 20px;
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
-        .download-link:hover {
-            background-color: #0056b3;
+        embed {
+            width: 100vw; /* Take up 100% of the viewport width */
+            height: 100vh; /* Take up 100% of the viewport height */
+            border: none; /* Remove any default border */
         }
     </style>
 </head>
 <body>
-    <div class="pdf-container">
-        <embed src="resume.pdf" type="application/pdf">
-    </div>
-
+    <embed src="resume.pdf" type="application/pdf">
 </body>
 </html>
