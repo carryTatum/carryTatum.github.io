@@ -26,9 +26,9 @@
             font-size: 1.1em;
         }
         .pdf-container {
-            width: 90%; /* 容器宽度 */
-            max-width: 1000px; /* 最大宽度，防止在超宽屏幕上过大 */
-            height: 800px; /* 容器高度，根据需要调整 */
+            width: 95%; /* 增加宽度，让PDF占浏览器窗口更大比例 */
+            max-width: 1200px; /* 增加最大宽度，允许在宽屏上显示更大 */
+            height: 1000px; /* 增加固定高度，确保PDF有足够空间 */
             border: 1px solid #ccc;
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
             background-color: #fff;
@@ -54,16 +54,9 @@
     </style>
 </head>
 <body>
-    <h1>欢迎查看我的简历</h1>
-    <p>
-        如果 PDF 未能正确显示，或者您希望下载，请点击：
-        <a href="resume.pdf" class="download-link" target="_blank" download>下载我的简历</a>
-    </p>
-
     <div class="pdf-container">
         <embed src="resume.pdf" type="application/pdf">
-
-        </div>
+    </div>
 
 </body>
 </html>
