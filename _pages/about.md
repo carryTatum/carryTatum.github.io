@@ -41,8 +41,8 @@ Currently, my research interests include **AI for Life Science**, **Knowledge Gr
 
 # 📖 Educations
 - *2026.09 - Now*, Ph.D., Computer Science and Technology, Tsinghua Shenzhen International Graduate School, Tsinghua University.
-- *2023.09 - 2026.06*, Master, School of Computer Science, Wuhan University.
-- *2019.09 - 2023.06*, Undergraduate, Software College, Northeastern University.
+- *2023.09 - 2026.06*, Master, Software Engineering, School of Computer Science, Wuhan University.
+- *2019.09 - 2023.06*, Undergraduate, Software Engineering, Software College, Northeastern University.
 
 # ✏️ Professional Services
 - Peer Reviewer: ARR Rolling Review, NAACL 2024, ACL 2025, NIPS 2026, ACL 2026, EMNLP 2026
