@@ -8,51 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm currently a first-year Ph.D. student in Computer Science and Technology at Tsinghua Shenzhen International Graduate School, Tsinghua University, advised by Prof. <a href="https://ziqigao-tsinghua.github.io/" target="_blank">Ziqi Gao</a>. Before that, I received my Master's degree from the School of Computer Science at Wuhan University in 2026, advised by Prof. <a href="https://jszy.whu.edu.cn/pengmin/zh_CN/index/166809/list/index.htm" target="_blank">Min Peng</a>, and my Bachelor's degree from the Software College of Northeastern University in 2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Currently, my research interests include **AI for Life Science**, **Knowledge Graph**, and **Natural Language Processing**. Feel free to contact me.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.08*: 🎉 One paper is accepted to EMNLP 2026 Main <span class="ccf">(CCF-B)</span>.
+- *2026.08*: 🎉 One paper is accepted to World Wide Web Journal <span class="ccf">(CCF-B)</span>.
+- *2025.09*: 🎉 One paper is accepted to WISE 2025 <span class="ccf">(CCF-B)</span>.
+- *2025.05*: 🎉 One paper is accepted to ACL 2025 Findings <span class="ccf">(CCF-A)</span>.
+- *2025.01*: 🎉 One paper is accepted to Information Processing <span class="amp">&amp;</span> Management <span class="ccf">(CCF-B)</span>.
+- *2024.03*: 🎉 One paper is accepted to NAACL 2024 Findings <span class="ccf">(CCF-B)</span>.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+(* = Equal Contribution)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `EMNLP 2026 Main` [TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning](https://arxiv.org/abs/2602.05818) <br> **Zihao Jiang**<sup>*</sup>, Miao Peng<sup>*</sup>, Zhenyan Shan, Wenjie Xu, Ben Liu, Gong Chen, Ziqi Gao, Min Peng
+- `WWWJ 2025` [Structure-aware generative framework for temporal knowledge graph reasoning with historical evidence](https://link.springer.com/article/10.1007/s11280-026-01428-5) <br> **Zihao Jiang**<sup>*</sup>, Wenjie Xu<sup>*</sup>, Miao Peng, Ben Liu, Yao Xiao, Zhenyan Shan, Xu Jia, Min Peng
+- `ACL 2025 Findings` [Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework](https://aclanthology.org/2025.findings-acl.378/) <br> **Zihao Jiang**<sup>*</sup>, Ben Liu<sup>*</sup>, Miao Peng, Wenjie Xu, Yao Xiao, Zhenyan Shan, Min Peng
+- `WISE 2025` [Boosting Pre-trained Language Models for Temporal Knowledge Graph Reasoning via Joint Structure and Recurring Patterns](https://link.springer.com/chapter/10.1007/978-981-95-7251-9_16) <br> **Zihao Jiang**, Miao Peng, Wenjie Xu, Ben Liu, Yao Xiao, Kai Liu, Min Peng
+- `IPM 2025` [Historical facts learning from Long-Short Terms with Language Model for Temporal Knowledge Graph Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lNGxptgAAAAJ&citation_for_view=lNGxptgAAAAJ:u-x6o8ySG0sC) <br> Wenjie Xu, Ben Liu, Miao Peng, **Zihao Jiang**, Xu Jia, Kai Liu, Lei Liu, Min Peng
+- `NAACL 2024 Findings` [Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lNGxptgAAAAJ&citation_for_view=lNGxptgAAAAJ:u5HHmVD_uO8C) <br> Miao Peng<sup>*</sup>, Ben Liu<sup>*</sup>, Wenjie Xu, **Zihao Jiang**, Jiahui Zhu, Min Peng
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* WHU First-Class Graduate Freshman Scholarship
+- *2023.06* Outstanding Graduate of NEU
+- *2020–2023* Outstanding Student Scholarship of NEU
+- *2020–2023* Merit Student of NEU
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09 - Now*, Ph.D., Computer Science and Technology, Tsinghua Shenzhen International Graduate School, Tsinghua University.
+- *2023.09 - 2026.06*, Master, School of Computer Science, Wuhan University.
+- *2019.09 - 2023.06*, Undergraduate, Software College, Northeastern University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# ✏️ Professional Services
+- Peer Reviewer: ARR Rolling Review, NAACL 2024, ACL 2025, NIPS 2026, ACL 2026, EMNLP 2026
