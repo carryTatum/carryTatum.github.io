@@ -14,7 +14,9 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(3 of 12);
+    float: left;
+    width: 210px;
+    margin-right: 1em;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
