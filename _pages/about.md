@@ -18,9 +18,9 @@ Currently, my research interests include **AI for Life Science**, **Knowledge Gr
 - *2026.08*: 🎉 One paper is accepted to EMNLP 2026 Main <span class="ccf">(CCF-B Conference)</span>.
 - *2026.08*: 🎉 One paper is accepted to World Wide Web Journal <span class="ccf">(CCF-B Journal)</span>.
 - *2025.09*: 🎉 One paper is accepted to WISE 2025 <span class="ccf">(CCF-B Conference)</span>.
-- *2025.05*: 🎉 One paper is accepted to ACL 2025 Findings <span class="ccf">(CCF-A Findings)</span>.
+- *2025.05*: 🎉 One paper is accepted to ACL 2025 Findings <span class="ccf">(CCF-A Findings Conference)</span>.
 - *2025.01*: 🎉 One paper is accepted to Information Processing <span class="amp">&amp;</span> Management <span class="ccf">(CCF-B Journal)</span>.
-- *2024.03*: 🎉 One paper is accepted to NAACL 2024 Findings <span class="ccf">(CCF-B Findings)</span>.
+- *2024.03*: 🎉 One paper is accepted to NAACL 2024 Findings <span class="ccf">(CCF-B Findings Conference)</span>.
 
 # 📝 Publications
 
