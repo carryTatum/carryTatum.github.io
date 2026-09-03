@@ -12,7 +12,7 @@ redirect_from:
 
 I'm currently a first-year Ph.D. student in Computer Science and Technology at Tsinghua Shenzhen International Graduate School, Tsinghua University, advised by Prof. <a href="https://ziqigao-tsinghua.github.io/" target="_blank">Ziqi Gao</a>. Before that, I received my Master's degree from the School of Computer Science at Wuhan University in 2026, advised by Prof. <a href="https://jszy.whu.edu.cn/pengmin/zh_CN/index/166809/list/index.htm" target="_blank">Min Peng</a>, and my Bachelor's degree from the Software College of Northeastern University in 2023.
 
-Currently, my research interests include **AI for Life Science**, **Knowledge Graph**, and **Natural Language Processing**. Feel free to contact me.
+Currently, my research interests include **AI for Life Science**, **Knowledge Graph**, **Large Language Model Reasoning**, and **Natural Language Processing**. Feel free to contact me.
 
 # 🔥 News
 - *2026.08*: 🎉 One paper is accepted to EMNLP 2026 Main <span class="ccf">(CCF-B Conference)</span>.
