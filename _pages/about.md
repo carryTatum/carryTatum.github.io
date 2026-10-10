@@ -15,6 +15,7 @@ I'm currently a first-year Ph.D. student in Computer Science and Technology at T
 Currently, my research interests include **AI for Life Science**, **Knowledge Graph**, **Large Language Model Reasoning**, and **Natural Language Processing**. Feel free to contact me.
 
 # 🔥 News
+- *2026.09*: 🎉 One paper is accepted to NeurIPS 2026 <span class="ccf">(CCF-A Conference)</span>.
 - *2026.08*: 🎉 One paper is accepted to EMNLP 2026 Main <span class="ccf">(CCF-B Conference)</span>.
 - *2026.08*: 🎉 One paper is accepted to World Wide Web Journal <span class="ccf">(CCF-B Journal)</span>.
 - *2025.09*: 🎉 One paper is accepted to WISE 2025 <span class="ccf">(CCF-B Conference)</span>.
@@ -26,6 +27,7 @@ Currently, my research interests include **AI for Life Science**, **Knowledge Gr
 
 (* = Equal Contribution)
 
+- `NeurIPS 2026` [ProteinOPD: Towards Effective and Efficient Preference Alignment for Protein Design](https://arxiv.org/abs/2605.10189) <br> Yulin Zhang, He Cao, **Zihao Jiang**, Chenyi Zi, Zhipeng Zhou, Zijing Liu, Yu Li, Jia Li, Ziqi Gao
 - `EMNLP 2026 Main` [TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning](https://arxiv.org/abs/2602.05818) <br> **Zihao Jiang**<sup>*</sup>, Miao Peng<sup>*</sup>, Zhenyan Shan, Wenjie Xu, Ben Liu, Gong Chen, Ziqi Gao, Min Peng
 - `WWWJ 2025` [Structure-aware generative framework for temporal knowledge graph reasoning with historical evidence](https://link.springer.com/article/10.1007/s11280-026-01428-5) <br> **Zihao Jiang**<sup>*</sup>, Wenjie Xu<sup>*</sup>, Miao Peng, Ben Liu, Yao Xiao, Zhenyan Shan, Xu Jia, Min Peng
 - `ACL 2025 Findings` [Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework](https://aclanthology.org/2025.findings-acl.378/) <br> **Zihao Jiang**<sup>*</sup>, Ben Liu<sup>*</sup>, Miao Peng, Wenjie Xu, Yao Xiao, Zhenyan Shan, Min Peng
